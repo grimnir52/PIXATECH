@@ -1,0 +1,1352 @@
+.desktop-1 .frame {
+  position: relative;
+  margin-bottom: 3px;
+  width: 15px;
+  height: 15px;
+}
+.desktop-1 .rectangle {
+  background: url("assets/images/Rectangle6.png");
+  position: absolute;
+  left: 50%;
+  bottom: -1px;
+  translate: -50% 0;
+  width: 15px;
+  height: 15px;
+}
+.desktop-1 .container {
+  display: flex;
+  width: 9px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.desktop-1 .rectangle-1 {
+  background: url("assets/images/Rectangle2.png");
+  width: 9px;
+  height: 18px;
+}
+.desktop-1 .c-086-ee-6-ec-4035-bdc-3-cf-66-e-9-a-905-b-51 {
+  background: url("assets/images/C086Ee6Ec4035Bdc3Cf66E9A905B51.jpeg") 50% /
+    cover no-repeat;
+  position: absolute;
+  right: -36px;
+  bottom: 0px;
+  width: 1476px;
+  height: 5664px;
+}
+.desktop-1 .home-about-us-solutions-contact-us {
+  margin: 19px 0 13px 0;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.home-about-us-solutions-contact-us-sub2 {
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+  color: #ffffff;
+}
+.home-about-us-solutions-contact-us-sub3 {
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+  color: #f9a826;
+}
+.desktop-1 .our-services {
+  margin: 0 65px 34px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 800;
+  font-size: 48px;
+  color: #2d2d2d;
+}
+.desktop-1 .we-provide-it-business-unitied-arab-emirates {
+  position: absolute;
+  left: 424.6px;
+  top: 959px;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 400;
+  font-size: 24px;
+  color: #3f3d56;
+}
+.desktop-1
+  .provide-of-innovative-and-trans-formative-it-solutions-empowering-businesses-to-thrive-in-the-digital-age {
+  margin: 0 66px 29px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 20px;
+  color: #3f3d56;
+}
+.desktop-1 .walk-through-the-world-with-us {
+  margin-top: 10px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 400;
+  font-size: 64px;
+  letter-spacing: 0.6px;
+  color: #ffffff;
+}
+.walk-through-the-world-with-us {
+  font-family: "Lato";
+  font-weight: 800;
+  font-size: 64px;
+  letter-spacing: 0.6px;
+  line-height: 1.333;
+}
+.walk-through-the-world-with-us-sub6 {
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 64px;
+  letter-spacing: 0.6px;
+  line-height: 1.333;
+}
+.desktop-1 {
+  background: #ffffff;
+  display: flex;
+  padding: 46px 0 4px 0;
+  width: 1419px;
+  box-sizing: border-box;
+}
+.desktop-1 .technology-used-in-our-platforms {
+  margin-bottom: 23px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 40px;
+  color: #000000;
+}
+.desktop-1 .container {
+  margin: 0 63px 97px 63px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 783.5px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 621.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .contact-form {
+  background: #f1eff0;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 60px 55px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.desktop-1 .footer {
+  background: #2d2d2d;
+  display: flex;
+  padding: 24px 0 24px 1.7px;
+  width: 1419px;
+  box-sizing: border-box;
+}
+.desktop-1 .metrics {
+  box-shadow: 0px 6px 4px 0px rgba(35, 35, 35, 0.11);
+  margin: 0 46px 123px 46px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  column-gap: 30px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .container-1 {
+  display: flex;
+  width: 171px;
+  height: 51px;
+  box-sizing: border-box;
+}
+.desktop-1 .rectangle-2 {
+  background: url("assets/images/Rectangle12.png");
+  width: 171px;
+  height: 51px;
+}
+.creating-abetter-it-solutions {
+  font-family: "Avenir Next", "Roboto Condensed";
+  font-style: italic;
+  font-weight: 600;
+  font-size: 64px;
+  letter-spacing: -1.9px;
+  line-height: 1.333;
+  color: #3f3d56;
+}
+.creating-abetter-it-solutions-sub178 {
+  font-family: "Avenir Next", "Roboto Condensed";
+  font-weight: 300;
+  font-size: 64px;
+  letter-spacing: -1.9px;
+  line-height: 1.333;
+}
+.desktop-1 .creating-abetter-it-solutions {
+  margin: 0 121px 215px 121px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Neo Sans", "Roboto Condensed";
+  font-weight: 500;
+  font-size: 64px;
+  letter-spacing: -1.9px;
+  line-height: 1.3;
+  color: #000000;
+}
+.desktop-1 .security-solutions {
+  margin: 0 1.2px 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 24px;
+  color: #f29130;
+}
+.desktop-1
+  .cctv-and-security-systems-smart-home-automation-access-control-and-entrance-automation-grms-guest-room-management-system {
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.desktop-1 .website-development {
+  margin: 0 13.9px 19.5px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.desktop-1
+  .our-team-of-skilled-web-developers-understands-that-every-business-or-individual-has-specific-requirements {
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.desktop-1 .ai-models-development {
+  margin: 0 0 36.8px 5.8px;
+  display: inline-block;
+  align-self: center;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.desktop-1
+  .put-ai-to-work-for-you-with-practical-applications-across-various-sectors-enhance-decision-making-automate-processes-and-unlock-insights-that-drive-your-business-forward {
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.desktop-1 .cloud-services {
+  margin: 0 18px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.desktop-1
+  .our-cloud-software-solutions-are-designed-to-optimize-efficiency-and-drive-growth {
+  margin-right: 5.5px;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.desktop-1 .system-integrations {
+  margin: 0 10.2px 15.8px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.desktop-1
+  .our-integration-solutions-ensure-smooth-data-flow-and-communication-across-your-entire-infrastructure {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.desktop-1 .mobile-app-development {
+  margin: 0 6.7px 17px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.desktop-1 .reach-your-customers-wherever-they-are-with-innovative-mobile-apps {
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.desktop-1
+  .uncover-the-potential-of-artificial-intelligence-with-our-custom-ai-models {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.desktop-1 .ai-models-application {
+  margin: 0 0 13.3px 4.1px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.desktop-1
+  .at-pixatech-technologies-we-are-dedicated-to-bringing-innovation-to-life-with-apassion-for-technology-and-acommitment-to-excellence-we-specialize-in-delivering-cutting-edge-solutions-that-empower-businesses-to-thrive-in-the-digital-age {
+  position: absolute;
+  top: 2164px;
+  right: 132.5px;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.565;
+  color: #555555;
+}
+.desktop-1 .our-mission {
+  margin: 0 0 14px 110px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.105;
+  color: #292930;
+}
+.desktop-1
+  .to-be-aglobally-recognized-leader-in-technological-innovation-pioneering-solutions-that-shape-industries-inspire-progress-and-enrich-lives {
+  margin: 0 726.9px 352.5px 0;
+  display: inline-block;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.565;
+  color: #555555;
+}
+.desktop-1 .our-vision {
+  margin: 0 997.4px 17.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.105;
+  color: #292930;
+}
+.desktop-1 .container-2 {
+  position: absolute;
+  top: 2589px;
+  right: 246.8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-1 .innovation-excellence-integrity-collaboration-collaboration {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.565;
+  color: #555555;
+}
+.desktop-1 .our-values {
+  margin-bottom: 30px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.105;
+  color: #292930;
+}
+.desktop-1 .image-62 {
+  background: url("assets/images/Image62.png") 50% / cover no-repeat;
+  position: absolute;
+  left: 563px;
+  top: 2208px;
+  width: 45px;
+  height: 45px;
+}
+.desktop-1 .image-63 {
+  background: url("assets/images/Image63.png") 50% / cover no-repeat;
+  position: absolute;
+  left: 618px;
+  top: 2613px;
+  width: 54px;
+  height: 54px;
+}
+.desktop-1 .image-64 {
+  background: url("assets/images/Image64.png") 50% / cover no-repeat;
+  position: absolute;
+  top: 2367px;
+  right: 617px;
+  width: 54px;
+  height: 54px;
+}
+.desktop-1
+  .our-metrics-component-gives-you-the-inside-scoop-on-your-success-and-helps-you-stay-on-top-of-your-game-in-style {
+  margin: 0 11px 81px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.3;
+  color: #2d2d2d;
+}
+.desktop-1 .our-metrics-tell-the-story {
+  margin: 0 13.5px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: -0.8px;
+  line-height: 1.3;
+  color: #000000;
+}
+.desktop-1 .dubai-uae-pobox-316-pc-121 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-m-font-family, "Mulish");
+  font-weight: var(--body-m-font-weight, 400);
+  font-size: var(--body-m-font-size, 16px);
+  line-height: var(--body-m-line-height, 1.5);
+  color: var(--onboarding-background-grey, #2d2d2d);
+}
+.desktop-1 .group-427320843 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 347px 0 126px 117px;
+  box-sizing: border-box;
+}
+.desktop-1 .frame-1 {
+  margin: 0 15px 1px 0;
+  display: flex;
+  width: 18px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.desktop-1 .rectangle-3 {
+  background: url("assets/images/Rectangle4.png");
+  width: 18px;
+  height: 24px;
+}
+.desktop-1 .frame-427320835 {
+  border-radius: 30px;
+  background: linear-gradient(61.72deg, #f29130 51.81%, #f9a826 52.14%);
+  margin: 0 42px 591px 54px;
+  padding: 79px 68.5px 34px 68.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .ready-to-work-with-us {
+  overflow-wrap: break-word;
+  font-family: "Plus Jakarta Sans";
+  font-weight: 600;
+  font-size: 80px;
+  letter-spacing: -2.4px;
+  line-height: 1.3;
+  color: #ffffff;
+}
+.desktop-1 .container-7 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 27px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 22.1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 22.2px;
+  width: 272.9px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-10 {
+  margin: 0 89px 11.1px 89px;
+  align-self: flex-start;
+  width: 548.2px;
+  height: 1.5px;
+}
+.desktop-1 .container-11 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 27px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 23px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0 38.6px 0;
+  width: 272.9px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-12 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-1 .container-13 {
+  position: absolute;
+  left: 452px;
+  top: 2388.9px;
+  width: 161.9px;
+  height: 216.8px;
+}
+.desktop-1 .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-1 .isolation-mode {
+  position: relative;
+  margin: 0 0 182px 4px;
+  display: flex;
+  padding: 0 0 48.5px 45.9px;
+  width: 667px;
+  box-sizing: border-box;
+}
+.desktop-1 .vector-5 {
+  width: 176.8px;
+  height: 189.5px;
+}
+.desktop-1 .layer-31 {
+  background: url("assets/images/Layer31.png") 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 66px;
+  height: 74px;
+}
+.desktop-1 .layer-32 {
+  background: url("assets/images/Layer32.png") 50% / cover no-repeat;
+  position: absolute;
+  left: 109px;
+  top: 64px;
+  width: 62px;
+  height: 62px;
+}
+.desktop-1 .layer-33 {
+  background: url("assets/images/Layer33.png") 50% / cover no-repeat;
+  position: absolute;
+  left: 213px;
+  bottom: 17.7px;
+  width: 78.7px;
+  height: 37.3px;
+}
+.desktop-1 .layer-34 {
+  background: url("assets/images/Layer34.png") 50% / cover no-repeat;
+  position: absolute;
+  top: 55px;
+  right: 271px;
+  width: 71px;
+  height: 80px;
+}
+.desktop-1 .layer-35 {
+  background: url("assets/images/Layer35.png") 50% / cover no-repeat;
+  position: absolute;
+  right: 151px;
+  bottom: 9px;
+  width: 79px;
+  height: 57px;
+}
+.desktop-1 .frame-2 {
+  position: absolute;
+  top: 53px;
+  right: 53px;
+  display: flex;
+  width: 67px;
+  height: 71px;
+  box-sizing: border-box;
+}
+.desktop-1 .rectangle-4 {
+  background: url("assets/images/Rectangle11.png");
+  width: 67px;
+  height: 71px;
+}
+.desktop-1 .undraw-add-tasks-re-s-5-yj-1 {
+  background: url("assets/images/UndrawAddTasksReS5Yj1.png") 50% / cover
+    no-repeat;
+  margin: 0 6.9px 42px 0;
+  width: 171px;
+  height: 96px;
+}
+.desktop-1 .undraw-mobile-development-re-wwsn-1 {
+  background: url("assets/images/UndrawMobileDevelopmentReWwsn1.png") 50% /
+    cover no-repeat;
+  margin: 0 10.7px 35px 0;
+  width: 152px;
+  height: 120px;
+}
+.desktop-1 .undraw-going-up-re-86-kg-1 {
+  background: url("assets/images/UndrawGoingUpRe86Kg1.png") 50% / cover
+    no-repeat;
+  margin: 0 0 19.5px 2px;
+  width: 188px;
+  height: 154px;
+}
+.desktop-1 .undraw-two-factor-authentication-namy-1 {
+  background: url("assets/images/UndrawTwoFactorAuthenticationNamy1.png") 50% /
+    cover no-repeat;
+  margin: 0 0 39px 0.8px;
+  width: 171px;
+  height: 108px;
+}
+.desktop-1 .undraw-server-status-re-n-8-ln-1 {
+  background: url("assets/images/UndrawServerStatusReN8Ln1.png") 50% / cover
+    no-repeat;
+  margin: 0 2.2px 10px 0;
+  width: 178px;
+  height: 110px;
+}
+.desktop-1 .undraw-chat-bot-re-e-2-gj-1 {
+  background: url("assets/images/UndrawChatBotReE2Gj1.png") 50% / cover
+    no-repeat;
+  margin: 0 9px 6px 9px;
+  align-self: flex-start;
+  width: 191px;
+  height: 109px;
+}
+.desktop-1 .undraw-visionary-technology-re-jfp-71 {
+  background: url("assets/images/UndrawVisionaryTechnologyReJfp71.png") 50% /
+    cover no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 45.7px;
+  translate: -50% 0;
+  width: 157px;
+  height: 119px;
+}
+.desktop-1 .frame-3 {
+  position: relative;
+  display: flex;
+  padding-top: 24px;
+  box-sizing: border-box;
+}
+.desktop-1 .undraw-progressive-app-m-9-ms-1 {
+  width: 852px;
+  height: 490px;
+}
+.desktop-1 .frame-427321515 {
+  margin: 0 0 59px 5px;
+  display: flex;
+  width: 852px;
+  height: 490px;
+  box-sizing: border-box;
+}
+.desktop-1 .group-427320845 {
+  position: absolute;
+  right: -14px;
+  bottom: 81px;
+  height: 985px;
+  box-sizing: border-box;
+}
+.desktop-1 .layer-1 {
+  width: 961.8px;
+  height: 727.6px;
+}
+.desktop-1 .group-427320847 {
+  position: absolute;
+  top: 0px;
+  right: 67.2px;
+  display: flex;
+  width: 961.8px;
+  height: 727.6px;
+  box-sizing: border-box;
+}
+.desktop-1
+  .in-the-vast-landscape-of-technology-programming-languages-serve-as-the-backbone-for-software-development-enabling-us-to-communicate-instructions-to-computers-in-astructured-and-meaningful-way-each-programming-language-comes-with-its-own-syntax-semantics-and-unique-features-tailored-to-address-different-needs-and-solve-diverse-problems-lets-explore-some-of-the-prominent-programming-languages-and-their-applications {
+  margin: 0 0 97px 15px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.3;
+  color: #000000;
+}
+.desktop-1 .vector-257 {
+  margin: 0 18.9px 136.2px 0;
+  width: 47.8px;
+  height: 27.8px;
+}
+.desktop-1 .undraw-agreement-re-d-4-dv-1 {
+  width: 470px;
+  height: 454px;
+}
+.desktop-1 .group-427320848 {
+  position: absolute;
+  top: 0px;
+  right: 125px;
+  display: flex;
+  width: 470px;
+  height: 454px;
+  box-sizing: border-box;
+}
+.desktop-1 .isolation-mode-2 {
+  margin: 0 124px 331px 124px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 136px;
+  box-sizing: border-box;
+}
+.desktop-1 .group-4 {
+  margin-right: 15.3px;
+  width: 22px;
+  height: 22px;
+}
+.desktop-1 .group-6 {
+  margin-right: 17.2px;
+  width: 22px;
+  height: 22px;
+}
+.desktop-1 .group-7 {
+  width: 22px;
+  height: 22px;
+}
+.desktop-1 .group-9 {
+  margin-right: 15.3px;
+  width: 22px;
+  height: 22px;
+}
+.desktop-1
+  .we-offer-acomprehensive-suite-of-technical-services-designed-to-empower-businesses-of-all-sizes-and-industries-from-software-development-and-it-infrastructure-management-to-cybersecurity-cloud-computing-and-beyond-our-team-of-seasoned-professionals-is-committed-to-delivering-exceptional-results-that-exceed-your-expectations {
+  position: absolute;
+  left: 121px;
+  top: 357px;
+  overflow-wrap: break-word;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: -0.5px;
+  line-height: 1.3;
+  color: #000000;
+}
+.desktop-1 .container-25 {
+  margin: 0 64px 167px 64px;
+  align-self: flex-end;
+  width: 656px;
+  height: 2px;
+}
+.desktop-1 .container-26 {
+  margin: 0 62px 143.4px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .container-28 {
+  margin-right: 25.6px;
+  width: 193.3px;
+  height: 189.5px;
+}
+.desktop-1 .container-29 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 27px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 22.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 0 42.1px 0;
+  width: 272.9px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-30 {
+  margin: 0 11px 79px 0;
+  width: 656px;
+  height: 2px;
+}
+.desktop-1 .container-32 {
+  margin-right: 32.2px;
+  width: 193.3px;
+  height: 189.5px;
+}
+.desktop-1 .container-33 {
+  position: absolute;
+  top: 2229.1px;
+  right: 557.2px;
+  width: 269.4px;
+  height: 854.4px;
+}
+.desktop-1 .container-34 {
+  margin: 0 125.7px 77.4px 134.6px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .container-35 {
+  position: absolute;
+  left: -161px;
+  top: -46px;
+  width: 1616px;
+  height: 1069px;
+}
+.desktop-1 .container-37 {
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 27px;
+  background: #ffffff;
+  position: relative;
+  display: flex;
+  padding: 160.7px 20.5px 22.6px 24.5px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-39 {
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 27px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 23px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 16.4px;
+  width: 272.9px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-41 {
+  position: relative;
+  margin-bottom: 77px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .container-42 {
+  position: absolute;
+  top: 2627px;
+  right: 181px;
+  width: 474px;
+  height: 2px;
+}
+.desktop-1 .container-43 {
+  background: linear-gradient(334.75deg, #e09722 24.61%, #f9a826 24.62%);
+  position: absolute;
+  left: -16px;
+  bottom: 2689px;
+  display: flex;
+  flex-direction: row;
+  padding: 131px 0 94px 121.6px;
+  width: 1440px;
+  height: 389px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-45 {
+  position: relative;
+  margin-right: 142.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 61px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-46 {
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 27px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 22.1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20.4px;
+  width: 272.9px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-48 {
+  box-shadow: 0px 4px 4px 0px #f9a826;
+  border-radius: 27px;
+  background: #ffffff;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px 0 27.6px 0;
+  width: 272.9px;
+  box-sizing: border-box;
+}
+.desktop-1 .header {
+  position: relative;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .header-1 {
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .lets-get-in-touch {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--display-m-font-family, "Poppins");
+  font-weight: var(--display-m-font-weight, 700);
+  font-size: var(--display-m-font-size, 38px);
+  letter-spacing: var(--display-m-letter-spacing, -0.8px);
+  line-height: var(--display-m-line-height, 1.3);
+  color: var(--onboarding-background-grey, #2d2d2d);
+}
+.desktop-1
+  .got-questions-about-the-landing-page-ui-kit-our-team-is-here-to-help-contact-us-for-quick-and-friendly-support {
+  overflow-wrap: break-word;
+  font-family: var(--body-m-font-family, "Mulish");
+  font-weight: var(--body-m-font-weight, 400);
+  font-size: var(--body-m-font-size, 16px);
+  line-height: var(--body-m-line-height, 1.5);
+  color: var(--onboarding-background-grey, #2d2d2d);
+}
+.desktop-1 .contact-details {
+  margin-bottom: 63px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .phone {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .phone-call {
+  margin-right: 12px;
+  width: 24px;
+  height: 24px;
+}
+.desktop-1 .container-3 {
+  overflow-wrap: break-word;
+  font-family: var(--body-m-font-family, "Mulish");
+  font-weight: var(--body-m-font-weight, 400);
+  font-size: var(--body-m-font-size, 16px);
+  line-height: var(--body-m-line-height, 1.5);
+  color: var(--onboarding-background-grey, #2d2d2d);
+}
+.desktop-1 .mail {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .envelope-simple {
+  margin-right: 12px;
+  width: 24px;
+  height: 24px;
+}
+.desktop-1 .helloanimaapp-com {
+  overflow-wrap: break-word;
+  font-family: var(--body-m-font-family, "Mulish");
+  font-weight: var(--body-m-font-weight, 400);
+  font-size: var(--body-m-font-size, 16px);
+  line-height: var(--body-m-line-height, 1.5);
+  color: var(--onboarding-background-grey, #2d2d2d);
+}
+.desktop-1 .social-media {
+  margin-right: 15.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .connect-with-us {
+  margin: 0 4.1px 20px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--display-xs-font-family, "Poppins");
+  font-weight: var(--display-xs-font-weight, 600);
+  font-size: var(--display-xs-font-size, 21px);
+  line-height: var(--display-xs-line-height, 1.3);
+  color: var(--onboarding-background-grey, #2d2d2d);
+}
+.desktop-1 .social-links {
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  width: 176px;
+  box-sizing: border-box;
+}
+.desktop-1 .social-icons {
+  border-radius: 16px;
+  background: #f29130;
+  position: relative;
+  display: flex;
+  padding: 7.5px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.desktop-1 .bg {
+  border-radius: 16px;
+  background: #f29130;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 32px;
+  height: 32px;
+}
+.desktop-1 .path {
+  width: 17.1px;
+  height: 17.1px;
+}
+.desktop-1 .social-icons-1 {
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.desktop-1 .bg-1 {
+  border-radius: 16px;
+  background: #f29130;
+  width: 32px;
+  height: 32px;
+}
+.desktop-1 .social-icons-2 {
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.desktop-1 .bg-2 {
+  border-radius: 16px;
+  background: #f29130;
+  width: 32px;
+  height: 32px;
+}
+.desktop-1 .social-icons-3 {
+  border-radius: 16px;
+  background: #f29130;
+  position: relative;
+  display: flex;
+  padding: 9.6px 8.5px 9.6px 8px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.desktop-1 .bg-3 {
+  border-radius: 16px;
+  background: #f29130;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 32px;
+  height: 32px;
+}
+.desktop-1 .path-1 {
+  width: 15.5px;
+  height: 12.8px;
+}
+.desktop-1 .input-fields {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .input-field {
+  border-radius: 20px;
+  border: 1px solid var(--deviders-grey, #d8d8d8);
+  background: #ffffff;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 17px 0 17px 19px;
+  width: 465px;
+  box-sizing: border-box;
+}
+.desktop-1 .icon {
+  margin: 2px 12px 2px 0;
+  display: flex;
+  flex-direction: row;
+  width: 29px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .divider {
+  background: #d9d9d9;
+  width: 1px;
+  height: 20px;
+}
+.desktop-1 .full-name {
+  overflow-wrap: break-word;
+  font-family: var(--body-m-font-family, "Mulish");
+  font-weight: var(--body-m-font-weight, 400);
+  font-size: var(--body-m-font-size, 16px);
+  line-height: var(--body-m-line-height, 1.5);
+  color: var(--onboarding-background-grey, #2d2d2d);
+}
+.desktop-1 .user {
+  margin-right: 8px;
+  width: 20px;
+  height: 20px;
+}
+.desktop-1 .input-field-1 {
+  border-radius: 20px;
+  border: 1px solid var(--deviders-grey, #d8d8d8);
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  padding: 17px 0 17px 19px;
+  width: 465px;
+  box-sizing: border-box;
+}
+.desktop-1 .icon-1 {
+  margin: 2px 12px 2px 0;
+  display: flex;
+  flex-direction: row;
+  width: 29px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .envelope-simple-1 {
+  margin-right: 8px;
+  width: 20px;
+  height: 20px;
+}
+.desktop-1 .divider-1 {
+  background: #d9d9d9;
+  width: 1px;
+  height: 20px;
+}
+.desktop-1 .email {
+  overflow-wrap: break-word;
+  font-family: var(--body-m-font-family, "Mulish");
+  font-weight: var(--body-m-font-weight, 400);
+  font-size: var(--body-m-font-size, 16px);
+  line-height: var(--body-m-line-height, 1.5);
+  color: var(--onboarding-background-grey, #2d2d2d);
+}
+.desktop-1 .button {
+  border-radius: 20px;
+  background: linear-gradient(261.03deg, #f9a826 7.1%, #f29130 77.3%);
+  display: flex;
+  align-self: flex-start;
+  padding: 18px 0;
+  width: 159px;
+  box-sizing: border-box;
+}
+.desktop-1 .label {
+  overflow-wrap: break-word;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--white, #ffffff);
+}
+.desktop-1 .contact-form-1 {
+  border-radius: 20px;
+  border: 1px solid var(--cta-aqua-squeeze, #e5f4f2);
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding: 59px 0 59px 59px;
+  box-sizing: border-box;
+}
+.desktop-1 .input-fields-button {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-1 .contact-details-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-1 .anima-landing-page-ui-kit {
+  overflow-wrap: break-word;
+  font-family: "Mulish";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #ffffff;
+}
+.desktop-1 .metric-item {
+  border-left: 4px solid #f29130;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 21px 16px;
+  width: 270px;
+  box-sizing: border-box;
+}
+.desktop-1 .number {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--display-m-font-family, "Poppins");
+  font-weight: var(--display-m-font-weight, 700);
+  font-size: var(--display-m-font-size, 38px);
+  letter-spacing: var(--display-m-letter-spacing, -0.8px);
+  line-height: var(--display-m-line-height, 1.3);
+  color: var(--onboarding-background-grey, #2d2d2d);
+}
+.desktop-1 .label-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Mulish";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.3;
+  color: #2d2d2d;
+}
+.desktop-1 .metric-item-1 {
+  border-left: 4px solid #f29130;
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 26.1px 0 16px;
+  box-sizing: border-box;
+}
+.desktop-1 .number-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--display-m-font-family, "Poppins");
+  font-weight: var(--display-m-font-weight, 700);
+  font-size: var(--display-m-font-size, 38px);
+  letter-spacing: var(--display-m-letter-spacing, -0.8px);
+  line-height: var(--display-m-line-height, 1.3);
+  color: var(--onboarding-background-grey, #2d2d2d);
+}
+.desktop-1 .label-2 {
+  overflow-wrap: break-word;
+  font-family: "Mulish";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.3;
+  color: #2d2d2d;
+}
+.desktop-1 .metric-item-2 {
+  border-left: 4px solid #f29130;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 21px 16px;
+  width: 270px;
+  box-sizing: border-box;
+}
+.desktop-1 .number-2 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--display-m-font-family, "Poppins");
+  font-weight: var(--display-m-font-weight, 700);
+  font-size: var(--display-m-font-size, 38px);
+  letter-spacing: var(--display-m-letter-spacing, -0.8px);
+  line-height: var(--display-m-line-height, 1.3);
+  color: #2d2d2d;
+}
+.desktop-1 .label-3 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Mulish";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.3;
+  color: #2d2d2d;
+}
+.desktop-1 .metric-item-3 {
+  border-left: 4px solid #f29130;
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 16px;
+  width: 270px;
+  box-sizing: border-box;
+}
+.desktop-1 .number-3 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--display-m-font-family, "Poppins");
+  font-weight: var(--display-m-font-weight, 700);
+  font-size: var(--display-m-font-size, 38px);
+  letter-spacing: var(--display-m-letter-spacing, -0.8px);
+  line-height: var(--display-m-line-height, 1.3);
+  color: #2d2d2d;
+}
+.desktop-1 .label-4 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Mulish";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.3;
+  color: #2d2d2d;
+}
+.desktop-1 .container-53 {
+  margin: 0 0 600.4px 374.6px;
+  width: 193.3px;
+  height: 165px;
+}

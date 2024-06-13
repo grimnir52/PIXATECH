@@ -61,11 +61,29 @@ h1 strong {
 .custom-shape-divider-bottom-1718051799 .shape-fill {
   fill: #f3f3f3;
 }
+.custom-shape-divider-bottom-1718307965 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1718307965 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 121px;
+}
+
+.custom-shape-divider-bottom-1718307965 .shape-fill {
+  fill: #ffffff;
+}
 
 .services {
   background-color: #f3f3f3;
 }
-/* <!-- ----------------------------------------------------------------------------------- --> */
 
 .slogan {
   max-width: 57ch;
@@ -293,6 +311,7 @@ h1 strong {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 40%;
+  cursor: pointer;
 }
 .js {
   background-image: url("../images/icons/js.png");
@@ -535,7 +554,6 @@ footer {
   justify-content: space-between;
   flex-wrap: wrap;
   row-gap: 3rem;
-  padding-bottom: 15px;
   margin-top: 5rem;
   max-width: 80%;
   margin-inline: auto;
@@ -569,4 +587,9 @@ footer {
   background-position: 70% 50%;
   padding-top: 0;
   padding-bottom: 25%;
+}
+@media only screen and (max-width: 768px) {
+  .bkimg {
+    background-image: none;
+  }
 }

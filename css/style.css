@@ -577,4 +577,8 @@ footer {
   .bkimg {
     background-image: none;
   }
+  .shift-right,
+  .shift-left {
+    margin: 3rem 0;
+  }
 }

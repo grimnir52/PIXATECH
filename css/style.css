@@ -274,62 +274,47 @@ h1 strong {
   margin: auto;
 }
 /* <!-- ----------------------------------------------------------------------------------- --> */
-
-.gallery {
-  --img-size: calc(105px - 0.5rem / 2);
-  display: grid;
-  place-content: center;
-  gap: 0.5rem;
-  grid-template-columns: repeat(8, var(--img-size));
-  grid-template-rows: repeat(3, var(--img-size));
-
-  div {
-    width: 100%;
-    aspect-ratio: 1;
-    /*     height: 100%; */
-    object-fit: cover;
-    grid-column: span 2;
-    border-radius: 0.5rem;
-    clip-path: path(
-      "M 80 20 C 100 0 100 0 120 20 C 140 40 160 60 180 80 C 200 100 200 100 180 120 C 160 140 140 160 120 180 C 100 200 100 200 80 180 C 60 160 40 140 20 120 C 0 100 0 100 20 80 Z"
-    );
-    transition: all 500ms, clip-path 500ms;
-
-    &:nth-of-type(4) {
-      grid-column: 2 / span 2;
-    }
-
-    &:hover {
-      transform: scale(1.1);
-    }
-  }
+.tech {
+  padding-bottom: 0;
 }
-.gallery div:has(.tech) {
-  background-color: #f29130;
+.tech-stack {
+  place-content: center;
+  max-width: clamp(650px, 900px, 100vw);
+  margin: auto;
+  rotate: 319deg;
+  gap: 15px;
+}
+.tech-icon,
+.icon-empty {
+  width: calc(22% - 1rem);
+  aspect-ratio: 1;
+  border-radius: 20%;
+  margin: 0 !important;
+  padding: 5%;
 }
 .tech-icon {
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 40%;
-  cursor: pointer;
+  display: grid;
+  place-content: center;
+  background-color: #f29130;
 }
-.js {
-  background-image: url("../images/icons/js.png");
+.tech-icon img {
+  rotate: 45deg;
 }
-.python {
-  background-image: url("../images/icons/python.png");
+
+/* Setting the radius */
+.js,
+.php,
+.docker {
+  border-bottom-left-radius: 40%;
+}
+
+.python,
+.nodejs {
+  border-top-right-radius: 40%;
 }
 .mailchimp {
-  background-image: url("../images/icons/mailchimp.svg");
-}
-.nodejs {
-  background-image: url("../images/icons/nodejs.png");
-}
-.php {
-  background-image: url("../images/icons/php.png");
-}
-.docker {
-  background-image: url("../images/icons/docker.png");
+  border-top-right-radius: 40%;
+  border-bottom-right-radius: 40%;
 }
 
 @keyframes zIndexHack {
